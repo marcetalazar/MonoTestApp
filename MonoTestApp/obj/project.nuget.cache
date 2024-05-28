@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "66GFbWWKrNs=",
+  "dgSpecHash": "C4IQRKL437k=",
   "success": true,
-  "projectFilePath": "c:\\Users\\marce\\Desktop\\MonoTestApp\\MonoTestApp\\MonoTestApp.csproj",
+  "projectFilePath": "C:\\Users\\marce\\Desktop\\MonoTestApp\\MonoTestApp\\MonoTestApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marce\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\marce\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.5\\microsoft.aspnetcore.cryptography.internal.8.0.5.nupkg.sha512",
