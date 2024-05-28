@@ -1,0 +1,41 @@
+@{
+    ViewData["Title"] = "Info page";
+}
+
+<h3>-All data in db are made up for the needs of this app</h3>
+<hr>
+<h3>-There is only one(admin) account</h3>
+<hr>
+<h3>-You must be logged in as an administrator to be able to change vehicles</h3>
+<hr>
+<h2>Task</h2>
+<p><h4>What is your test project</h4> <br>
+
+Summary: develop a minimalistic application of your choice by following the technologies and concepts mentioned above and the requirements defined below.
+<br>
+Requirements
+<br>
+
+Create a database with the following elements<br>
+VehicleMake (Id,Name,Abrv) e.g. BMW,Ford,Volkswagen,<br>
+VehicleModel (Id,MakeId,Name,Abrv) e.g. 128,325,X5 (BWM), <br>
+Create the solution (back-end) with the following projects and elements<br>
+Project.Service<br>
+EF models for above database tables<br>
+VehicleService class - CRUD for Make and Model (Sorting, Filtering & Paging)<br>
+Project.MVC <br>
+Make administration view (CRUD with Sorting, Filtering & Paging)<br>
+Model administration view (CRUD with Sorting, Filtering & Paging)<br>
+Filtering by Make<br>
+Implementation details <br>
+
+async/await should be enforced in all layers (async all the way)<br>
+all classes should be abstracted (have interfaces so that they can be unit tested)<br>
+IoC (Inversion of Control) and DI (Dependency Injection) should be enforced in all layers (constructor injection preferable) <br>
+Ninject DI container should be used (https://github.com/ninject/ninject/wiki)<br>
+Mapping should be done by using AutoMapper (http://automapper.org/)<br>
+EF 6, Core or above with Code First approach (EF Power Tools can be used) should be used  <br>
+MVC project<br>
+return view models rather than EF database models<br>
+return proper HTTP status codes<br>
+Note: The candidate should open a dedicated GitHub repository for the purpose of the test project and code reviews.</p>
