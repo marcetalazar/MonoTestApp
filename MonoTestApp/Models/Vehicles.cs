@@ -12,9 +12,16 @@ namespace Vehicles.Models
         public required string Registration{get;set; }
         public int YearOfManufacture{get;set; }
 
-        public Vehicles()
+        public void ArrangeData()
         {
-            
+            if(Manufacturer!=null)
+                Manufacturer=Manufacturer.ToUpper();
+            if(Model!=null)
+                Model=Model.ToUpper();
+            if(EngineType!=null)
+                EngineType=EngineType.ToLower();
+            if(Registration!=null)
+                Registration=Registration.ToUpper();
         }
 
     }

@@ -58,13 +58,14 @@ namespace MonoTestApp.Controllers
         {
             if (ModelState.IsValid)
             {
+                vehicles.ArrangeData();
                 _context.Add(vehicles);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
             return View(vehicles);
         }
-
+        
         // GET: Vehicles/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {

@@ -17,71 +17,71 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MonoTestApp
 build_property.RootNamespace = MonoTestApp
-build_property.ProjectDir = c:\Users\marce\Desktop\MonoTestApp\MonoTestApp\
+build_property.ProjectDir = C:\Users\marce\Desktop\MonoTestApp\MonoTestApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\marce\Desktop\MonoTestApp\MonoTestApp
+build_property.MSBuildProjectDirectory = C:\Users\marce\Desktop\MonoTestApp\MonoTestApp
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/marce/Desktop/MonoTestApp/MonoTestApp/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/marce/Desktop/MonoTestApp/MonoTestApp/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/marce/Desktop/MonoTestApp/MonoTestApp/Views/Home/Index.cshtml]
+[C:/Users/marce/Desktop/MonoTestApp/MonoTestApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/marce/Desktop/MonoTestApp/MonoTestApp/Views/Home/Info.cshtml]
+[C:/Users/marce/Desktop/MonoTestApp/MonoTestApp/Views/Home/Info.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmZvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/marce/Desktop/MonoTestApp/MonoTestApp/Views/Home/Vehicles.cshtml]
+[C:/Users/marce/Desktop/MonoTestApp/MonoTestApp/Views/Home/Vehicles.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWZWhpY2xlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/marce/Desktop/MonoTestApp/MonoTestApp/Views/Shared/Error.cshtml]
+[C:/Users/marce/Desktop/MonoTestApp/MonoTestApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/marce/Desktop/MonoTestApp/MonoTestApp/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/marce/Desktop/MonoTestApp/MonoTestApp/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/marce/Desktop/MonoTestApp/MonoTestApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/marce/Desktop/MonoTestApp/MonoTestApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/marce/Desktop/MonoTestApp/MonoTestApp/Views/Vehicles/Create.cshtml]
+[C:/Users/marce/Desktop/MonoTestApp/MonoTestApp/Views/Vehicles/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/marce/Desktop/MonoTestApp/MonoTestApp/Views/Vehicles/Delete.cshtml]
+[C:/Users/marce/Desktop/MonoTestApp/MonoTestApp/Views/Vehicles/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/marce/Desktop/MonoTestApp/MonoTestApp/Views/Vehicles/Details.cshtml]
+[C:/Users/marce/Desktop/MonoTestApp/MonoTestApp/Views/Vehicles/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/marce/Desktop/MonoTestApp/MonoTestApp/Views/Vehicles/Edit.cshtml]
+[C:/Users/marce/Desktop/MonoTestApp/MonoTestApp/Views/Vehicles/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/marce/Desktop/MonoTestApp/MonoTestApp/Views/Vehicles/Index.cshtml]
+[C:/Users/marce/Desktop/MonoTestApp/MonoTestApp/Views/Vehicles/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/marce/Desktop/MonoTestApp/MonoTestApp/Views/_ViewImports.cshtml]
+[C:/Users/marce/Desktop/MonoTestApp/MonoTestApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/marce/Desktop/MonoTestApp/MonoTestApp/Views/_ViewStart.cshtml]
+[C:/Users/marce/Desktop/MonoTestApp/MonoTestApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/marce/Desktop/MonoTestApp/MonoTestApp/Views/Shared/_Layout.cshtml]
+[C:/Users/marce/Desktop/MonoTestApp/MonoTestApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-wltvv1m26r
